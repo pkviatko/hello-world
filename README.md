@@ -1,2 +1,2 @@
 # hello-world
-A simple test repository to try GitHub for fututre usage
+A simple test repository to try GitHub for future usage
